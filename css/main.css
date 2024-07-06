@@ -1,0 +1,24 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+    height: 100vh;
+    justify-content: space-between;
+    background-color: rgb(255, 222, 227);
+    background-image: url("../img/bg.png");
+}
+
+.balon-name-img {
+    height: 350px;
+    width: auto;
+}
+
+/* .counter-text {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 100px;
+} */
