@@ -10,7 +10,7 @@ body, html {
     height: 100vh;
     justify-content: space-between;
     background-color: rgb(255, 222, 227);
-    background-image: url("../img/bg.png");
+    background-image: url("https://osmansimsek.github.io/ebossu-dogum-gunu/img/bg.png");
 }
 
 .balon-name-img {
